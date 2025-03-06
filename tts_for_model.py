@@ -2,7 +2,7 @@ import os
 from google.cloud import texttospeech
 import time
 
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "astral-trees-452808-p1-203f79031f31.json"
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "your-json-file-path"
 
 
 
