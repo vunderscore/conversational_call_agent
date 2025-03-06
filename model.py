@@ -3,9 +3,8 @@ from langchain_huggingface import HuggingFaceEndpoint
 import json
 import pandas as pd
 from langchain.tools import Tool
-from dotenv import load_dotenv
-load_dotenv()
-HUGGINGFACEHUB_API_TOKEN = "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"
+
+HUGGINGFACEHUB_API_TOKEN = "your-access-token"
 os.environ["HUGGINGFACEHUB_API_TOKEN"] = HUGGINGFACEHUB_API_TOKEN
 
 
