@@ -6,7 +6,7 @@ from google.cloud import speech_v1p1beta1 as speech
 from google.oauth2 import service_account
 import time
 
-def get_speech_client(json_path='astral-trees-452808-p1-203f79031f31.json'):
+def get_speech_client(json_path='your-json-file-path'):
     """
     Get Speech Client using local JSON key
     """
