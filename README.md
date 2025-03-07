@@ -61,8 +61,8 @@ The agent processes user queries by:
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo-name.git
-   cd your-repo-name
+   git clone https://https://github.com/vunderscore/conversational_call_agent.git
+   cd conversational_call_agent
    ```
 
 2. Install dependencies:
